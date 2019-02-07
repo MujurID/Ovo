@@ -1,6 +1,6 @@
 <?php 
-$account = "08xxxxxxxxxx"; // nomor ovo
-$access = "cbax99xxxx9xxxxx"; // access ovo
+$account = "082221309603"; // nomor ovo
+$access = "fb128e3c8437a56835511c401987a0d472e2ccd2"; // access ovo
 
 $max=100; //akan otomatis close apabila sudah max
 
